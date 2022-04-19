@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marcusrehbock
-- 👀 I’m interested in Machine Learning, Data Analysis & Finance
-- 🌱 I’m currently learning Java, Python and C
-- 💞️ I’m looking to collaborate on automation and trading software 
+- 👀 I’m interested in Product Management, Data Analysis, Finance & Automation.
+- 🌱 I’m currently learning React, Python and C
+- 💞️ I’m looking for software/PM internships
 - 📫 Reach me at marcusrehbock@gmail.com
 
 <!---
