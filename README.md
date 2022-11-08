@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marcusrehbock
-- 👀 I’m interested in Product Management, Data Analysis, Finance & Automation.
-- 🌱 I’m currently learning React, Python and C
-- 💞️ I’m looking for software/PM internships
+- 👀 I’m interested in Climate-Tech, Product Management, Startups, Data Analytics, Automation & Finance.
+- 🌱 I’m currently learning Javascript, HTML, CSS & Cloud Computing. 
+- 💞️ Interested in Software/PM internships
 - 📫 Reach me at marcusrehbock@gmail.com
 
 <!---
